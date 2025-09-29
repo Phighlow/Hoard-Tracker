@@ -1,3 +1,12 @@
+# ---------------------------------------------
+# Project: D&D Hoard Combat Tracker
+# File: Hoard Tracker.py
+# Author: Justin Nieto
+# Created: Spring, 2025
+# Description: Based of the Lord of Hosts supplamentary materials for D&D, this tool allows 
+#   for easy tracking of large groups of enemies. Material for group saves and damage has been
+#   ported 1-to-1 from the text
+# ---------------------------------------------
 import tkinter as tk
 from tkinter import simpledialog, messagebox
 
